@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class banco {
+public class Banco {
 	public static void main(String [] args) {
 		Scanner leia = new Scanner(System.in);
 		int numero;
